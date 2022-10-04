@@ -1,6 +1,10 @@
 # Bem vindo(a) ao meu perfil !
 
-Olá, eu sou o Thomas Lousada
+Olá, eu sou o Thomas Henrique Lousada, estudante do 4º período de Sistemas de Informação, apaixonado por tecnologia e inovação, tenho também estudado e feito cursos de aprendizado na área de desenvolvimento web e em dados. Possuo vivência com equipes ágeis e conhecimento em ferramentas de agilidade, como scrum e kanban. 
+
+Atualmente estou em um projeto de extensão pela universidade que tem como objetivo auxiliar startups e pequenas empresas, transformando os dados do négocio de forma automatizada em informação para melhores tomadas de decisões, a famosa "decisão baseada em dados".
+
+Tenho como hobbie a leitura, e em grande parte o tema de experiência social e ensaios políticos e econômicos. Como profissional bilíngue, dou supoporte voluntário de aulas de inglês para iniciantes e também crio páginas web para comerciantes locais os ajudando a digitalizar o seu negócio. Em meu tempo livre crio clones de páginas web para exercitar meu aprendizado (disponível em GitHub).
 
 ## Meus hobies
 
