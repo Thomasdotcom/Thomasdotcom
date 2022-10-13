@@ -16,14 +16,14 @@ Tenho como hobbie a leitura, e em grande parte o tema de experiência social e e
 
 ## Meus hobies
 
-- Ler
-- Consertar coisas
-- Arriscar na cozinha
+- Ler sobre novos temas
+- Consertar e fazer melhoria em equipamentos eletrônicos
+- Cozinhar e testar novas receitas
 
 
 ## Portfólio
 
-- 
+- https://thomasdotcom.github.io/portfolio/
 
 ## Contatos
 
