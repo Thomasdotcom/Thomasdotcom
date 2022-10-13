@@ -20,7 +20,7 @@ Tenho como hobbie a leitura, e em grande parte o tema de experiência social e e
 
 ## Contatos
 
-- Instagram: @thoomas_henrique
+- LinkedIn: in/thomas-lousada95/
 - Github: @Thomasdotcom
 - Email: thomashenrique45@hotmail.com
 - Celular: (31) 9.9813-7852
