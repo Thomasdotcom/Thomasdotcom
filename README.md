@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil !
 
-Olá, eu sou o Thomas Henrique Lousada, estudante do 4º período de Sistemas de Informação, apaixonado por tecnologia e inovação, tenho também estudado e feito cursos de aprendizado na área de desenvolvimento web e dados. Possuo vivência com equipes ágeis e conhecimento em ferramentas de agilidade, como scrum e kanban.
+Olá, eu sou o Thomas Henrique Lousada, estudante do 6º período de Sistemas de Informação, apaixonado por tecnologia e inovação, tenho também estudado e feito cursos de aprendizado na área de desenvolvimento web e dados. Possuo vivência com equipes ágeis e conhecimento em ferramentas de agilidade, como scrum e kanban.
 
 Atualmente estou em um projeto de extensão pela universidade que tem como objetivo auxiliar startups e pequenas empresas, transformando os dados do negócio de forma automatizada em informação para melhores tomadas de decisões, a famosa "decisão baseada em dados".
 
